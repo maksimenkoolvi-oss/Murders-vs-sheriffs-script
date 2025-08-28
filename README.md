@@ -29,6 +29,4 @@ Script for Murderers vs Sheriffs
 
 **maksimenkoolvi-oss** - [Telegram](https://t.me/MurdersVsSheriffsDeveloper)
 
-## ❗ Important
 
-Этот скрипт предназначен только для образовательных целей. Использование в публичных играх может привести к блокировке аккаунта.Автор не несет ответственность за ваш аккаунт!
